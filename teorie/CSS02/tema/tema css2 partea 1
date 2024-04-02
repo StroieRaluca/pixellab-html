@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Tema CSS02</title>
+    <link rel="stylesheet" href="./css-de-baza-tema.css">
+
+</head>
+
+<body><ol>
+        <li>plate</li>
+        <li>bento</li>
+        <li>#fancy</li>
+        <li>plate apple</li>
+        <li>#fancy pickle</li>
+        <li>.small</li>
+        <li>orange.small</li>
+        <li>bento orange.small</li>
+        <li>plate,bento</li>
+        <li>*</li>
+        <li>plate*</li>
+        <li>plate+apple</li> 
+        <li>bento~pickle</li>
+        <li>plate>apple</li>
+</ol>
+        </body>
